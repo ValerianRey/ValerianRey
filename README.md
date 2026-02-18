@@ -22,7 +22,7 @@
 
 ## 🏆 Notable Projects
 
-- **[TorchJD](https://github.com/TorchJD/torchjd):** PyTorch library for Jacobian descent, enabling multi-objective neural network training, based on the theory from my paper [Jacobian Descent For Multi-Objective Optimization](https://arxiv.org/pdf/2406.16232) and related research.
+- **[TorchJD](https://github.com/SimplexLab/TorchJD):** PyTorch library for Jacobian descent, enabling multi-objective neural network training, based on the theory from my paper [Jacobian Descent For Multi-Objective Optimization](https://arxiv.org/pdf/2406.16232) and related research.
 - **[RagThisCode](https://github.com/ValerianRey/RagThisCode/)** Setup an MCP server to easily do Retrieval Augmented Generation of files from GitHub repos. Also comes with a chatbot web app using an agent connected to the MCP server, to chat "with" a repo. 
 
 ---
