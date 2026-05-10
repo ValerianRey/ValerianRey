@@ -1,6 +1,6 @@
 # Valérian Rey
 
-**AI Research Engineer / Data Scientist**
+**AI Research Engineer / ML Engineer **
 
 ---
 
