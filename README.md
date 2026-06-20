@@ -1,6 +1,6 @@
 # Valérian Rey
 
-**AI Research Engineer / ML Engineer **
+**ML Research Engineer**
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## Open to work
 
-I'm looing for a full-time job in AI research and development. I'm also open to freelance missions on anything within my skillset.
+I'm looing for a position of ML engineer. Note that my profile is at the intersection between engineering and research. I'm also open to freelance missions on anything within my skillset.
 
 ## 🌐 Links
 
