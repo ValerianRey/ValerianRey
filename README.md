@@ -10,7 +10,7 @@
 |--------------------------|-----------------------------------------------------------------------------------|
 | **Python**            | 7+ years as my main language                                                      |
 | **C**                 | The first language I ever learned. I made embedded ML algorithms in C at Withings |
-| **C++**               | The second language I learned. I made small video games with it.                  |
+| **C++**               | The second language I learned. I made small video games with it and a toy tensor calculus library |
 | **PyTorch**           | 6+ years as my main framework. Active on the forums, contributor on GitHub, maintainer of a library of the PyTorch ecosystem (TorchJD) |
 | **Machine Learning**  | Modeling, optimization, pipelines, experimentation; sklearn, JAX enthusiast       |
 | **Data Science**      | Analysis, feature engineering, visualization, statistical testing                 |
