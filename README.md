@@ -1,6 +1,6 @@
 # Valérian Rey
 
-**ML Engineer / Research Engineer**
+**Software Engineer - Deep Learning Frameworks**
 
 ---
 
