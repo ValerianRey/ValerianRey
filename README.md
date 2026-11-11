@@ -32,7 +32,8 @@
 - *Federated Learning for Malware Detection in IoT Devices* (Computer Networks, first author)  
   - 500+ citations
   - [Best Paper Award](https://www.sciencedirect.com/journal/computer-networks/about/awards/computer-networks-2024-best-paper-award)  
-- *Jacobian Descent for Multi-Objective Optimization* (co-first author)
+- *Jacobian Descent for Multi-Objective Optimization* (NeurIPS, co-first author)
+- *Representing Tensors as Compositions for Efficient Computation on Sparse and Structured Data* (Arxiv, first author)
 ---
 
 ## Education
