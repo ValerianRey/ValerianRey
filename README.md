@@ -7,6 +7,7 @@
 ## Notable Projects
 
 - [TorchJD](https://github.com/SimplexLab/TorchJD): PyTorch library to train models with multiple losses
+- [cten](https://github.com/SimplexLab/cten): Composable tensor library
 
 ## Main Publications
 
