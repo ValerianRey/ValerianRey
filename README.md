@@ -23,4 +23,3 @@
 ## Links
 
 - **LinkedIn:** [valerian-rey](https://www.linkedin.com/in/valerian-rey/)
-- valerian.[my-family-name]@gmail.com
