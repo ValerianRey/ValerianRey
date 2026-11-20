@@ -1,8 +1,7 @@
 # Valérian Rey
 
-**Software Engineer (PyTorch core) @NVIDIA**
-
-**Maintainer @SimplexLab**
+- Software Engineer (PyTorch core) [@NVIDIA](https://github.com/NVIDIA)
+- Maintainer [@SimplexLab](https://github.com/SimplexLab)
 
 ## Notable Projects
 
